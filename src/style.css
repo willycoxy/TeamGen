@@ -1,0 +1,17 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: rgb(211, 62, 46);
+}
+
+h1 {
+    color: white;
+    height: 60px;
+    text-align: center;
+}
+
+.center {
+    padding-top: 30px;
+}
