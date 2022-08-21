@@ -76,9 +76,9 @@ const promptManager = managerData => {
     }); 
 }
 
-const promptTeam = teamData() => {
-    return inquirer.prompt
-}
+// const promptTeam = teamData() => {
+//     return inquirer.prompt
+// }
 
 
 
