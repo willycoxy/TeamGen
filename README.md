@@ -30,4 +30,4 @@
   If you have any questions regarding this app, please reach be using my GitHub or email below.
 
   * Github: [willycoxy](https://github.com/willycoxy)
-  * Email: [willia@gmail.com](mailto:willia@gmail.com)
+  * Email: [williamjwcox@gmail.com](mailto:williamjwcox@gmail.com)
